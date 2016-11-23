@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidClipboard", "GuidClipboard\GuidClipboard.csproj", "{958FE167-0D2D-412B-AD92-0AEB5F1444BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContinuallyGuid", "ContinuallyGuid\ContinuallyGuid.csproj", "{D230C773-F6F4-4021-90AC-DDFCAE9E0684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958FE167-0D2D-412B-AD92-0AEB5F1444BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958FE167-0D2D-412B-AD92-0AEB5F1444BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958FE167-0D2D-412B-AD92-0AEB5F1444BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958FE167-0D2D-412B-AD92-0AEB5F1444BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D230C773-F6F4-4021-90AC-DDFCAE9E0684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D230C773-F6F4-4021-90AC-DDFCAE9E0684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D230C773-F6F4-4021-90AC-DDFCAE9E0684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D230C773-F6F4-4021-90AC-DDFCAE9E0684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
